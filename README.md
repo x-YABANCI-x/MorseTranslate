@@ -18,7 +18,7 @@ Bu Python scripti, metinleri Morse koduna ve Morse kodlarını metne dönüştü
    - **2** seçeneği ile Morse kodunu metne dönüştürebilirsiniz.
 4. Girilen verinin sonucunu ekranda görebilirsiniz.
 
-**------------------------------------------------------------------------------------**
+<hr>
 
 # Morse Code Converter (English)
 
